@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Wistia Video Downloader scans the page you are on, lists the Wistia videos it finds, and lets you save them as MP4 files. It is built for embedded players on landing pages, documentation, and course portals where teams need a quick offline archive.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "wistia-video-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Wistia Video Downloader",
+  "version": "0.0"
+}
