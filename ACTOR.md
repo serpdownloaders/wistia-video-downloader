@@ -1,4 +1,4 @@
-# Wistia Downloader (Browser Extension)
+# Wistia Downloader
 
 > Download supported Wistia-hosted videos as MP4 files from business pages, embeds, and training portals.
 
